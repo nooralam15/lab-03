@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Full Name:** `Noor Alam`
-- **CCID:** `ntalam'
+- **CCID:** ntalam
 
 ## References and Resources
 
